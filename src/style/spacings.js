@@ -1,0 +1,9 @@
+export const Xxs = "0.5rem";
+export const Xs = "1rem";
+export const Sm = "1.5rem";
+export const Md = "2rem";
+export const Lg = "2.5rem";
+export const Xl = "3rem";
+export const Xxl = "3.5rem";
+export const littleButton = `${Xxs} ${Xs}`;
+export const bigButton = `${Xs} ${Md}`;
